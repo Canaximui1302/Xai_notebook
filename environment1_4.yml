@@ -269,7 +269,7 @@ dependencies:
       - bitsandbytes==0.41.1
       - blinker==1.9.0
       - brotli==1.2.0
-      - captum==0.8.0
+      - captum==0.6.0
       - click==8.3.1
       - cmake==4.3.0
       - cuda-bindings==13.2.0
@@ -339,6 +339,7 @@ dependencies:
       - sentencepiece==0.2.1
       - shellingham==1.5.4
       - sympy==1.14.0
+      - tabulate==0.10.0
       - tokenizers==0.15.2
       - torch==2.0.1+cu117
       - transformers==4.38.2
